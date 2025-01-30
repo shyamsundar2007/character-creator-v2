@@ -4,7 +4,7 @@
 }
 
 .maxWidthWrapper {
-    width: auto;
+    position: relative;
 }
 
 .perspectiveDecoration {
@@ -13,7 +13,6 @@
     bottom: 0px;
     position: fixed;
     background-color: hsl(195deg, 20%, 86%);
-    z-index: -10;
 }
 
 .header {
